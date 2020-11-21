@@ -1,4 +1,4 @@
-# Kurán Bertalan
+# Kurán Bertalan 
 
 ## I'm a Programmer, Gamer, College Student
 - 🔭 I’m currently working on small projects.
@@ -57,6 +57,8 @@
   ![Kuran Bertalan github stats](https://github-readme-stats.vercel.app/api?username=Kuran-Bertalan&show_icons=true&theme=tokyonight&custom_title=Kuran-Bertalan-Github-stats:)
 
 </details>
+
+<img src="https://github.com/Kuran-Bertalan/Kuran-Bertalan/blob/main/images/small-logo.png" width="80">
 
 [hackerrank]: https://www.hackerrank.com/Ryanxx
 [trello]: https://trello.com/bertalan_kuran
