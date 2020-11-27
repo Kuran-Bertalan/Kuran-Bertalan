@@ -29,20 +29,21 @@
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=blue)](#)
 [![C# Badge](https://img.shields.io/badge/-C_Sharp-pink?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=purple)](#)
 
-[![HTML5 text Badge](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)
-[![CSS text Badge](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#)
-[![PHP text Badge](https://img.shields.io/badge/-PHP-9cf?style=for-the-badge&labelColor=black&logo=php&logoColor=9cf)](#)
-[![Bootstrap text Badge](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=purple)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#)
+[![PHP Badge](https://img.shields.io/badge/-PHP-9cf?style=for-the-badge&labelColor=black&logo=php&logoColor=9cf)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=purple)](#)
 
-[![SQL, MYSQL text Badge](https://img.shields.io/badge/-SQL--MYSQL-grey?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
+[![SQL, MYSQL Badge](https://img.shields.io/badge/-SQL--MYSQL-grey?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
 
-[![Git text Badge](https://img.shields.io/badge/-Git-important?style=for-the-badge&labelColor=black&logo=git&logoColor=important)](#)
-[![Github text Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
-[![Gitkraken text Badge](https://img.shields.io/badge/-Gitkraken-cyan?style=for-the-badge&labelColor=black&logo=gitkraken&logoColor=cyan)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-important?style=for-the-badge&labelColor=black&logo=git&logoColor=important)](#)
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
+[![Gitkraken Badge](https://img.shields.io/badge/-Gitkraken-cyan?style=for-the-badge&labelColor=black&logo=gitkraken&logoColor=cyan)](#)
 
-[![Linux text Badge](https://img.shields.io/badge/-Linux-black?style=for-the-badge&labelColor=grey&logo=linux&logoColor=white)](#)
-[![Windows text Badge](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&labelColor=blue&logo=windows&logoColor=white)](#)
+[![Linux Badge](https://img.shields.io/badge/-Linux-black?style=for-the-badge&labelColor=grey&logo=linux&logoColor=white)](#)
+[![Windows Badge](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&labelColor=blue&logo=windows&logoColor=white)](#)
 
+[![Trello Badge](https://img.shields.io/badge/-Trello-blue?style=for-the-badge&labelColor=blue&logo=trello&logoColor=white)](#)
 
 ---
 
