@@ -8,7 +8,7 @@
 
 ### My other profiles:
 
-[<img align="left" alt="http://ryanx.bss.design" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="HackerRank | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Stackoverflow | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
@@ -64,7 +64,7 @@
 
 [hackerrank]: https://www.hackerrank.com/Ryanxx
 [trello]: https://trello.com/bertalan_kuran
-[website]: 
+[website]: https://github.com/Kuran-Bertalan/Kuran-Bertalan
 [steam]: https://steamcommunity.com/id/04Ryanx06/
 [twitter]: https://twitter.com/BertalanKuran
 [stackoverflow]: https://stackoverflow.com/users/14094570/ryanx?tab=profile
