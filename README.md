@@ -1,10 +1,10 @@
 # Kurán Bertalan 
 
 ## I'm a Programmer, Gamer, College Student
-- 🔭 I’m currently working on small projects.
+- 🔭 I’m currently working on small projects and school projects.
 - 🌱 I’m currently learning everything:D
 - 📫 How to reach me: PM Me:)
-- 🥅 2020 Goals: Learn new development tools, programming languages and other great stuffs.
+- 🥅 2021 Goals: Learn new development tools, programming languages and other great stuffs.
 
 ### My other profiles:
 
@@ -64,7 +64,7 @@
 
 [hackerrank]: https://www.hackerrank.com/Ryanxx
 [trello]: https://trello.com/bertalan_kuran
-[website]: http://ryanx.bss.design
+[website]: 
 [steam]: https://steamcommunity.com/id/04Ryanx06/
 [twitter]: https://twitter.com/BertalanKuran
 [stackoverflow]: https://stackoverflow.com/users/14094570/ryanx?tab=profile
