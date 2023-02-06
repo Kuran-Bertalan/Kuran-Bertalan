@@ -1,10 +1,10 @@
 # Kurán Bertalan 
 
-## I'm a Frontend Developer, Game Developer, Gamer, College Student
-- 🔭 I’m currently working on small projects and school projects.
+## I'm a Junior Software Engineer
+- 🔭 I’m currently working on small projects and small games.
 - 🌱 I’m currently learning Frontend related things.
 - 📫 How to reach me: kberci99@gmail.com
-- 🥅 2022 Goals: Learn new development tools, programming languages and other great stuffs.
+- 🥅 2023 Goals: Learn new development tools, programming languages and other great stuffs.
 
 ### My other profiles:
 
