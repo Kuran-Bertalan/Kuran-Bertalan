@@ -79,7 +79,7 @@
 
 [hackerrank]: https://www.hackerrank.com/Ryanxx
 [trello]: https://trello.com/bertalan_kuran
-[website]: https://github.com/Kuran-Bertalan/Kuran-Bertalan
+[website]: https://bertalan-next-js-blog.vercel.app
 [steam]: https://steamcommunity.com/id/04Ryanx06/
 [twitter]: https://twitter.com/BertalanKuran
 [stackoverflow]: https://stackoverflow.com/users/14094570/ryanx?tab=profile
