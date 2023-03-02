@@ -23,9 +23,12 @@
 [![JavaScript# Badge](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&labelColor=black&logo=javascript&logoColor=yellow)](#)
 [![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)](#)
 [![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)](#)
-[![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)](#)
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-9cf?style=for-the-badge&labelColor=black&logo=php&logoColor=9cf)](#)
+
+[![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)](#)
 
 [![C# Badge](https://img.shields.io/badge/-C_Sharp-pink?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=purple)](#)
 [![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)](#)
@@ -39,6 +42,7 @@
 
 [![SQL, MYSQL Badge](https://img.shields.io/badge/-SQL--MYSQL-grey?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
 [![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)](#)
 
 [![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-3776AB?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=blue)](#)
